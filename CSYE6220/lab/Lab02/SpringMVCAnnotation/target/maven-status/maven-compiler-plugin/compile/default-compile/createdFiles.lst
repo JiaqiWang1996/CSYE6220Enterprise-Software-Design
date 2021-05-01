@@ -1,0 +1,4 @@
+com\mycompany\springmvc\pojo\User.class
+com\mycompany\springmvc\controller\UserController.class
+META-INF\spring.components
+com\mycompany\springmvc\interceptor\DemoInterceptor.class

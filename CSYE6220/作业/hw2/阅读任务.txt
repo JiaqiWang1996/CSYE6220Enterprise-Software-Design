@@ -1,0 +1,4 @@
+   https://learning.oreilly.com/library/view/more-servlets-and/0130676144/?ar
+Part 2.1. Reading Assignment (The JSP Page Directive)
+Part 2.2. Reading Assignment (Declarative Web Application Security)
+Part 2.3. Reading Assignment (Controlling Web Application Behavior with web.xml)

@@ -1,0 +1,7 @@
+Topic: Lecture 21 - Hibernate Pagination, and Criteria Query-by-Example
+Date: Apr 12, 2021 11:32 AM Eastern Time (US and Canada)
+
+Meeting Recording:
+https://northeastern.zoom.us/rec/share/95cE6bmedrJNqnMUq0Upn7rZk-qUBEW2Y9SsNVE3b6bgWbjiic1PMNQYHTSOd0wq.rvSerGFip08w-5b2
+
+Access Passcode: msiscsye2020?

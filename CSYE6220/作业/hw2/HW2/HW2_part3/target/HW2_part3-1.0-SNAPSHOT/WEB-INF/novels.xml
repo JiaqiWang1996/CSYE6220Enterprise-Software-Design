@@ -1,0 +1,12 @@
+<books>
+    <book>
+        <name>Harry Potter</name>
+        <author>J. K. Rowling</author>
+        <price>30</price>
+    </book>
+    <book>
+        <name>Sophie's World</name>
+        <author>Jostein Gaarder</author>
+        <price>40</price>
+    </book>
+</books>
